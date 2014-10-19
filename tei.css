@@ -1,0 +1,60 @@
+
+
+.allCaps{
+
+	text-transform:uppercase;
+
+}
+
+.electronicTitle {
+	font-size:135%;
+	font-weight:bold;
+	color:#274257;
+}
+
+.editionVersion {
+
+	font-weight:bold;
+	
+}
+
+.footNoteLink{
+	vertical-align:top;
+	position: relative; 
+	top: -0.3em; 
+	font-size:80%;
+	text-decoration:none;
+	display: inline-block;
+}
+
+
+.italicizedText {
+	font-style:italic;
+}
+
+.physicalTitleMain {
+	font-size:125%;
+	font-weight:bold;
+}
+
+.physicalTitleSub {
+	font-size:110%;
+	font-weight:bold;
+}
+
+.sectionHeading {
+	font-size:115%;
+	font-weight:bold;
+}
+
+.smallCaps{
+	font-variant:small-caps;
+}
+
+.titleRef {
+	font-style:italic;
+}
+
+.titleRefNested{
+	font-style:normal;
+}

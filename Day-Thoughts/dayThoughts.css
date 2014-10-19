@@ -1,0 +1,76 @@
+
+
+
+.discardedStyle{
+
+	font-size:60%;
+	vertical-align:top;
+	/* text-decoration:line-through */
+	float:right;
+	color:red;
+	
+}
+
+
+
+.highlightedStyle{
+	
+	position:relative;
+	display:inline;
+	color:red;
+
+}
+
+
+
+.inflectional{
+	
+}
+
+.octavo{
+	
+	position:absolute;
+	display: none;
+}
+
+.octavoPage{
+
+	float:right;
+	text-decoration:overline;
+
+}
+
+p.octavoPageBreak{
+
+	text-decoration:overline;
+
+}
+
+.orthographic{
+
+}
+
+.punct{
+
+}
+
+.quarto {
+	
+}
+
+.quartoPage{
+
+	float:right;
+	text-decoration:overline
+
+}
+
+p.quartoPageBreak{
+
+	text-decoration:overline;
+
+}
+
+.subst{
+
+}
